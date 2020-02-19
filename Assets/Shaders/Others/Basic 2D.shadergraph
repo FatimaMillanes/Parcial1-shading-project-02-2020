@@ -4,7 +4,7 @@
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.TextureShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Name\": \"MainText\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"70d17a88-66eb-4914-bf15-8998a2873faf\"\n    },\n    \"m_DefaultReferenceName\": \"Texture2D_C4BF46FB\",\n    \"m_OverrideReferenceName\": \"_MainTex\",\n    \"m_Precision\": 0,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"fileID\\\":2800000,\\\"guid\\\":\\\"cd5732ce2b7f4394e96159a68d8716e2\\\",\\\"type\\\":3}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 0\n}"
+            "JSONnodeData": "{\n    \"m_Name\": \"MainText\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"70d17a88-66eb-4914-bf15-8998a2873faf\"\n    },\n    \"m_DefaultReferenceName\": \"Texture2D_C4BF46FB\",\n    \"m_OverrideReferenceName\": \"_MainTex\",\n    \"m_Precision\": 0,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"fileID\\\":2800000,\\\"guid\\\":\\\"cd5732ce2b7f4394e96159a68d8716e2\\\",\\\"type\\\":3}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 3\n}"
         },
         {
             "typeInfo": {
@@ -16,7 +16,7 @@
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.ColorShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Name\": \"Tint\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"cebaed0c-e8ef-4e01-b0f2-701677a888e4\"\n    },\n    \"m_DefaultReferenceName\": \"Color_4EE209A3\",\n    \"m_OverrideReferenceName\": \"_Tint\",\n    \"m_Precision\": 0,\n    \"m_Value\": {\n        \"r\": 0.48412853479385378,\n        \"g\": 0.0,\n        \"b\": 0.529411792755127,\n        \"a\": 0.6509804129600525\n    },\n    \"m_ColorMode\": 0,\n    \"m_Hidden\": false\n}"
+            "JSONnodeData": "{\n    \"m_Name\": \"Tint\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"cebaed0c-e8ef-4e01-b0f2-701677a888e4\"\n    },\n    \"m_DefaultReferenceName\": \"Color_4EE209A3\",\n    \"m_OverrideReferenceName\": \"_Tint\",\n    \"m_Precision\": 0,\n    \"m_Value\": {\n        \"r\": 0.529411792755127,\n        \"g\": 0.16837818920612336,\n        \"b\": 0.0,\n        \"a\": 0.929411768913269\n    },\n    \"m_ColorMode\": 1,\n    \"m_Hidden\": false\n}"
         }
     ],
     "m_SerializableNodes": [
@@ -224,7 +224,7 @@
     ],
     "m_PreviewData": {
         "serializedMesh": {
-            "m_SerializedMesh": "{\"mesh\":{\"fileID\":10210,\"guid\":\"0000000000000000e000000000000000\",\"type\":0}}",
+            "m_SerializedMesh": "{\"mesh\":{\"fileID\":10202,\"guid\":\"0000000000000000e000000000000000\",\"type\":0}}",
             "m_Guid": ""
         }
     },
